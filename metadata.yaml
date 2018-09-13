@@ -1,0 +1,27 @@
+_repo: The-Donkey-the-Elephant-and-the-Goat-at-a-Public-Meeting_51473
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Preston, Jack
+    aliases:
+    - Buschlen, John Preston
+    - Buschlen, J. P. (John Preston)
+    birthdate: 1888
+    gutenberg_agent_id: '35352'
+    url: http://www.gutenberg.org/2009/agents/35352
+description: ''
+gutenberg_issued: '2016-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51473'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political plays'
+- !lcc 'PS'
+- !lcsh 'United States -- Politics and government -- 20th century -- Drama'
+- GITenberg
+title: The Donkey, the Elephant, and the Goat at a Public Meeting
+url: http://www.gutenberg.org/ebooks/51473
